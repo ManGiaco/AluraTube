@@ -1,132 +1,142 @@
 {
-    "name": "Mario Souto (DevSoutinho)",
-    "job": "Lead Software Engineer",
-    "github": "omariosouto",
+    "name": "Amanda Giacometti (ManGiaco)",
+    "job": "Desenvolvedora full stack",
+    "github": "mangiaco",
     "playlists": {
-        "jogos": [
+        "Dev": [
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-                "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+                "title": "CRUD Angular + Spring | 01 - Introdução",
+                "url": "https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&index=1&t=5s",
+                "thumb": ""
             },
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-                "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+                "title": "Curso de MongoDB fundamental | Aprenda MongoDB em 1 hora - 2021",
+                "url": "https://www.youtube.com/watch?v=x9tC0eK0GtA",
+                "thumb": ""
             },
             {
-                "title": "Gas Station Simulator - 8 dias sem dormir!",
-                "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-                "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+                "title": "Curso Básico de Power BI - Do Zero Ao Dashboard - 100% Gratuito!",
+                "url": "https://www.youtube.com/watch?v=QnCSgEsIHMA",
+                "thumb": ""
             },
             {
-                "title": "Gartic Phone - Não assista a esse NerdPlayer!",
-                "url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
-                "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
+                "title": "Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara",
+                "url": "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=1&t=13s",
+                "thumb": ""
             },
             {
-                "title": "Netdecking Estraga o Magic?",
-                "url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
-                "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
+                "title": "Curso POO Teoria #01a - O que é Programação Orientada a Objetos",
+                "url": "https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=1&t=1934s",
+                "thumb": ""
             },
             {
-                "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-                "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-                "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+                "title": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
+                "url": "https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=1",
+                "thumb": ""
             },
             {
-                "title": "We Were Here Together - Os Enigmas deste Mundo",
-                "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-                "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
+                "title": "Curso MySQL #01 - O que é um Banco de Dados?",
+                "url": "https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r",
+                "thumb": ""
             },
             {
-                "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-                "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-                "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+                "title": "Curso Power BI - Aula 0 - Como instalar gratuitamente o Power BI",
+                "url": "https://www.youtube.com/watch?v=YO1Tn1z2grE&list=PLxjKFMYkZ9OdkcIZVh3vCFfV99o1CHVaX&index=1",
+                "thumb": ""
+            },
+            {
+                "title": "Quanto custa a vida nômade?",
+                "url": "https://www.youtube.com/watch?v=Yi1DsHv32tU&list=PLyR2YZAT22mQcGXL-CXVQxSBXTUYTfNJZ&index=24&t=653s",
+                "thumb": ""
             }
         ],
-        "front-end": [
+        "Mandarim": [
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+                "title": "Speak Chinese Naturally: How to start, continue and end conversations - Chinese Conversation Fillers",
+                "url": "https://www.youtube.com/watch?v=2xbazdiC_zo&list=PLyR2YZAT22mTZTvenH24cB9ElokoZOrOc&index=2&t=7s",
+                "thumb": ""
             },
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+                "title": "100 Verbs Every Chinese Beginner Must-Know",
+                "url": "https://www.youtube.com/watch?v=h9gEh1A7-AA&list=PLyR2YZAT22mTZTvenH24cB9ElokoZOrOc&index=8",
+                "thumb": ""
             },
             {
-                "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
-                "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
-                "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+                "title": "Extremely useful Chinese everyday words that are not covered in textbooks - Speak Chinese Naturally",
+                "url": "https://www.youtube.com/watch?v=RzbQsUZkCt0&list=PLyR2YZAT22mTZTvenH24cB9ElokoZOrOc&index=11",
+                "thumb": ""
             },
             {
-                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
-                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
-                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+                "title": "Slow Chinese Stories Newcomer | Chinese Listening Practice HSK 1/2",
+                "url": "https://www.youtube.com/watch?v=PcergOJuC1M&list=PLyR2YZAT22mTZTvenH24cB9ElokoZOrOc&index=24",
+                "thumb": ""
             },
             {
-                "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
-                "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
-                "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+                "title": "Stop saying 和 | How to say AND in Chinese",
+                "url": "https://www.youtube.com/watch?v=AMakrAxiPvk&list=PLyR2YZAT22mTZTvenH24cB9ElokoZOrOc&index=32",
+                "thumb": ""
             },
             {
-                "title": "Como Foi Programado um App Que Faz Mágica",
-                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+                "title": "Difference between 会 (huì), 能 (néng), and 可以 (kě yǐ)",
+                "url": "https://www.youtube.com/watch?v=719bZQJFUTY&list=PLyR2YZAT22mTZTvenH24cB9ElokoZOrOc&index=95&t=149sU",
+                "thumb": ""
             },
             {
-                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
-                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
-                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+                "title": "Chinese grammar 如果 - How to use ruguo. How to say WHETER IF in Chinese?",
+                "url": "https://www.youtube.com/watch?v=FItNAIF7rEY&list=PLyR2YZAT22mTZTvenH24cB9ElokoZOrOc&index=79&t=176s",
+                "thumb": ""
             },
             {
-                "title": "5 Erros Históricos do CSS",
-                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
-            },
-            {
-                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+                "title": "Chinese for Beginners - Differences between ALL the confusing HSK2/HSK3 words explained in ONE video",
+                "url": "https://www.youtube.com/watch?v=bevAdYdLNSQ&list=PLyR2YZAT22mTZTvenH24cB9ElokoZOrOc&index=33",
+                "thumb": ""
             }
         ],
-        "back-end": [
+        "Plantas": [
             {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+                "title": "NPK Orgânico em Pó",
+                "url": "https://www.youtube.com/watch?v=3d7OCRAXKAY&list=PLyR2YZAT22mTzARmCZLgo4epRK3gm4q-Q&index=6",
+                "thumb": ""
             },
             {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
-                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+                "title": "Enraíza qualquer tipo de galho (sem gastar um real)",
+                "url": "https://www.youtube.com/watch?v=gRGWIz4sTwQ",
+                "thumb": ""
             },
             {
-                "title": "O que é o Java? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
-                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+                "title": "Minha terra está ácida ou alcalina?",
+                "url": "https://www.youtube.com/watch?v=3EnnSlZ7rcQ",
+                "thumb": ""
             },
             {
-                "title": "O que é Machine Learning? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
-                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+                "title": "Sua orquídea perdeu todas as folhas? Saiba como fazer vir novos keikes!",
+                "url": "https://www.youtube.com/watch?v=9G2AHQcsg4o&list=PLyR2YZAT22mTwm-A_LFzVXla4VWlA4qSY&index=152",
+                "thumb": ""
             },
             {
-                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
-                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+                "title": "Como fazer mudas de suculentas com uma só folha?",
+                "url": "https://www.youtube.com/watch?v=56V8LDDZxfs",
+                "thumb": ""
             },
             {
-                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+                "title": "Carvão para suas plantas! Seu grande aliado!",
+                "url": "https://www.youtube.com/watch?v=yU5bWm4aQxc",
+                "thumb": ""
             },
             {
-                "title": "O que é o C#? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+                "title": "Contra pulgões, ácaros e fungos use a solução de cavalinha",
+                "url": "https://www.youtube.com/watch?v=9jfBAPu5FV8",
+                "thumb": ""
+            },
+            {
+                "title": "Aulão - Tipos de ADUBO",
+                "url": "https://www.youtube.com/watch?v=MSJXsZmc-Ss",
+                "thumb": ""
+            },
+            {
+                "title": "Entenda a ÁGUA OXIGENADA e aprenda a usar nas suas plantas",
+                "url": "https://www.youtube.com/watch?v=TtzDY1sWJW4",
+                "thumb": ""
             }
         ]
     }

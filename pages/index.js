@@ -18,7 +18,7 @@ function HomePage() {
                 display: "flex",
                 flexDirection: "column",
                 flex: 1,
-                // backgroundColor: "red",
+                //backgroundColor: "blue",
             }}>
                 <Menu />
                 <Header />
@@ -59,7 +59,8 @@ const StyledHeader = styled.div`
 function Header() {
     return (
         <StyledHeader>
-            {/* <img src="banner" /> */}
+            {/*<div Style={backgroundColor="black"} > </div>*/}
+            {/*<img src="https://www.issgovernance.com/file/2013/11/Website-Frontpage-Header-02.jpg" />*/}
             <section className="user-info">
                 <img src={`https://github.com/${config.github}.png`} />
                 <div>
